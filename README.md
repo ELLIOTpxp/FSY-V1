@@ -9,4 +9,5 @@ npm install puppeteer-core
 git clone https://github.com/ELLIOTpxp/FSY-V1.git
 cd FSY-V1
 chmod +x FSY.py quantum_hulk
-python3 FSY.py```
+python3 FSY.py
+```
