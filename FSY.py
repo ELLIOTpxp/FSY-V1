@@ -23,7 +23,7 @@ print("2 — Proxy list")
 print("3 — Cookies (bypassed cf_clearance)\n")
 
 choice = input(Fore.CYAN + "Choose (1/2/3) → ").strip()
-threads = input(Fore.CYAN + "Threads (10000–300000) → ").strip() or "80000"
+threads = input(Fore.CYAN + "Threads (100-20000) → ").strip() or "80000"
 
 if choice == "2":
     mode = "proxy"
